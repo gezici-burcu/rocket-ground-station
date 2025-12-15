@@ -51,18 +51,7 @@ It is designed as a foundation for future integration with real telemetry source
 
 ---
 
-## 📸 Screenshots
 
-
-(screenshots/sekme1.png)
-
-
-(screenshots/sekme 2.png)
-
-(screenshots/sekme-3.png)
-
-(screenshots/sekme-4.png)
----
 
 ## 📌 Notes
 This project is intended as a learning and demonstration tool for avionics-oriented software development and ground station systems.
