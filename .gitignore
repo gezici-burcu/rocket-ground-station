@@ -1,0 +1,8 @@
+# Visual Studio / WPF
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+*.csproj.user
