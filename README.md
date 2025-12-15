@@ -57,11 +57,11 @@ It is designed as a foundation for future integration with real telemetry source
 (screenshots/sekme1.png)
 
 
-(screenshots/sekme2.png)
+(screenshots/sekme 2.png)
 
-(screenshots/sekme3.png)
+(screenshots/sekme-3.png)
 
-(screenshots/sekme4.png)
+(screenshots/sekme-4.png)
 ---
 
 ## 📌 Notes
