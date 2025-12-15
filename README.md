@@ -52,8 +52,16 @@ It is designed as a foundation for future integration with real telemetry source
 ---
 
 ## 📸 Screenshots
-> Screenshots will be added to showcase the dashboard and telemetry views.
 
+
+(screenshots/sekme1.png)
+
+
+(screenshots/sekme2.png)
+
+(screenshots/sekme3.png)
+
+(screenshots/sekme4.png)
 ---
 
 ## 📌 Notes
